@@ -1,9 +1,9 @@
 # The Boredless Tourist
 Welcome to The Boredless Tourist, an online application giving you the power to find the parts of the city that fit the pace of your life. We at The Boredless Tourist run a recommendation engine using Python. We first evaluate what a person’s interests are and then give them recommendations in their area to venues, restaurants, and historical destinations that we think they’ll be engaged by. Let’s get started!
 
-##Tasks
+## Tasks
 
-###Setting Up Your Project
+### Setting Up Your Project
 1.
 We here at The Boredless Tourist believe that mistakes should be easily corrected, so we keep all of our code version controlled using git.
 
@@ -49,7 +49,7 @@ First, save the file, then add script.py to the git index using `git add`.
 7.
 Next, perform a `git commit` with the message "Added test objects".
 
-###Travelling To Faraway Lands
+### Travelling To Faraway Lands
 8.
 Now that we have test data for a traveler and a list of destinations that we can use, we can start building some of the Boredless Tourist‘s functionality.
 
@@ -116,7 +116,7 @@ And commit your changes with the message
 
 `"Added logic to find traveler destinations and convert to internal data"`
 
-###Visiting Interesting Places
+### Visiting Interesting Places
 
 24.
 Now we want to create and maintain a list of attractions. Let’s start by defining a list called attractions.
@@ -194,7 +194,7 @@ Then commit the changes with the message
 `"Created attractions and functionality for adding new attractions"``
 
 
-###Finding the Best Places to Go
+### Finding the Best Places to Go
 
 38.
 We want to be able to help our traveler’s find the most interesting places in a new city for them. In order to do that we need to match their interests with the possible locations in a city.
@@ -256,7 +256,7 @@ Looks like we’ve got an interest finder! Let’s save these changes to our git
 Now let’s commit the changes with the message `"Added interest finder logic"`
 
 
-###See The Parts of a City You want to See
+### See The Parts of a City You want to See
 53.
 Now let’s get to the main event, connecting people with the attractions that they are interested in.
 
@@ -310,5 +310,4 @@ Looks great! Let’s add it to our git repository! First `git add script.py`.
 
 64.
 Now let’s commit it! Use this message:
-
 `"Added function to generate message for traveler and present attractions they might be interested in."`
