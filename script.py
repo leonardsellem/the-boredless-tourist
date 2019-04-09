@@ -84,5 +84,5 @@ def get_attractions_for_traveler(traveler):
     return interests_string
 
 #test get_attractions_for_traveler()
-smills_france = get_attractions_for_traveler(['Dereck Smill', 'Paris, France', ['monument']])
-print(smills_france)
+#smills_france = get_attractions_for_traveler(['Dereck Smill', 'Paris, France', ['monument']])
+#print(smills_france)
